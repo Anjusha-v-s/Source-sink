@@ -1,0 +1,6 @@
+CustomerID,CustomerName,City,Amount,UpdatedAt
+1,Anju,Kochi,1200,2025-01-10 10:00:00
+2,Rahul,Bangalore,4500,2025-01-11 11:30:00
+3,Mittu,Trivandrum,3200,2025-01-12 09:45:00
+4,Devika,Chennai,2700,2025-01-13 14:20:00
+5,Arjun,Hyderabad,5000,2025-01-14 16:10:00

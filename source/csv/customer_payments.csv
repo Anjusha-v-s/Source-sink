@@ -1,0 +1,11 @@
+payment_id,customer_id,method,status
+501,1,UPI,Completed
+502,3,Credit Card,Completed
+503,6,Net Banking,Failed
+504,4,Debit Card,Completed
+505,7,UPI,Pending
+506,2,UPI,Completed
+507,9,Cash,Completed
+508,5,Credit Card,Refunded
+509,8,Cash,Completed
+510,10,Debit Card,Completed
